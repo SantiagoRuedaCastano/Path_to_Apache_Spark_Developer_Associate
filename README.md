@@ -1,20 +1,29 @@
-# Path_to_Apache_Spark_Developer_Associate
-Apache Spark Developer Associate
+# Apache Spark Developer Associate
 
-Section 1: Apache Spark Architecture
+Website https://www.databricks.com/learn/certification/apache-spark-developer-associate
 
+## Section 1: Apache Spark Architecture
 
-Section 2: Transformations and Actions
+[Cluster Mode Overview](https://spark.apache.org/docs/latest/cluster-overview.html)
+
+## Section 2: Transformations and Actions
+
+[Apache Spark Reference](https://spark.apache.org/docs/latest/sql-programming-guide.html)
 
 Narrow dependencies vs Wide dependencies
 
 
-Section 3: Exam
+## Section 3: Exam
 
 
-Website https://www.databricks.com/learn/certification/apache-spark-developer-associate
 
 
-training test
+training exam
 https://files.training.databricks.com/assessments/practice-exams/PracticeExam-DCADAS3-Scala.pdf
+
+
+
+
+
+
 
